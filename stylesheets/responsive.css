@@ -1,169 +1,36 @@
 @media only screen and (min-width: 1224px) {
     /* Desktop */
-    
+
   }
   
   @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
-    /* iPad */
-    .letter_t {
-      display: none;
-      opacity: 0;
-      width: 20vw;
-      height: 20vw; 
-      left: 0;
-      top: 0;
-      display: block;
-      position: absolute;
-      background: url("../img/letter_t.png");
-      animation: t 1.5s steps(1) infinite;
+    
   }
-  
-  .letteranimation {
-    display: none;
-      width: 20vw;
-      height: 20vw; 
-      overflow: hidden;
-      position: relative;
-  }
-  
-  .letter_y {
-    display: none;
-      width: 20vw;
-      height: 20vw; 
-      left: 0;
-      top: 0;
-      display: block;
-      position: absolute;
-      background: url("../img/letter_y.png");
-      animation: t 1s steps(1) infinite;
-  }
-  
-  .letter_p {
-    display: none;
-      width: 20vw;
-      height: 20vw; 
-      left: 0;
-      top: 0;
-      display: block;
-      position: absolute;
-      background: url("../img/letter_p.png");
-      animation: t 1s steps(1) infinite;
-  }
-  
-  .letter_o {
-    display: none;
-      width: 20vw;
-      height: 20vw; 
-      left: 0;
-      top: 0;
-      display: block;
-      position: absolute;
-      z-index: 5;
-      background: url("../img/letter_o.png");
-      animation: t 2s steps(1) infinite;
-  }
-  
-  .letteranimation_o {
-    display: none;
-      width: 20vw;
-      height: 20vw; 
-      overflow: hidden;
-      position: relative;
-      margin-left: 80%;
-      margin-top: -75%;
-  }
-  
-  .letter_g {
-    display: none;
-      width: 20vw;
-      height: 20vw; 
-      left: 0;
-      top: 0;
-      display: block;
-      position: absolute;
-      background: url("../img/letter_g.png");
-      animation: t 1.3s steps(1) infinite;
-  }
-  
-  .letter_r {
-    display: none;
-      width: 20vw;
-      height: 20vw; 
-      left: 0;
-      top: 0;
-      display: block;
-      position: absolute;
-      background: url("../img/letter_r.png");
-      animation: t 1s steps(1) infinite;
-  }
-  
-  .letter_a {
-    display: none;
-      width: 20vw;
-      height: 20vw; 
-      left: 0;
-      top: 0;
-      display: block;
-      position: absolute;
-      background: url("../img/letter_a.png");
-      animation: t 1s steps(1) infinite;
-  }
-  
-  .letter_f {
-    display: none;
-      width: 20vw;
-      height: 20vw; 
-      left: 0;
-      top: 0;
-      display: block;
-      position: absolute;
-      background: url("../img/letter_f.png");
-      animation: t 2s steps(1) infinite;
-  }
-  
-  .letter_i {
-    display: none;
-      width: 20vw;
-      height: 20vw; 
-      left: 0;
-      top: 0;
-      display: block;
-      position: absolute;
-      background: url("../img/letter_i.png");
-      animation: t 2s steps(1) infinite;
-  }
-  
-  .letter_ia {
-    display: none;
-      width: 20vw;
-      height: 20vw; 
-      left: 0;
-      top: 0;
-      display: block;
-      position: absolute;
-      background: url("../img/letter_ia.png");
-      animation: t 1.5s steps(1) infinite;
-  }
-  }
-  
+
   @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
     /* iPad Portrait */
+    
+    
   }
   
   @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
     /* iPad Landscape */
+  
   }
   
   @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     /* iPhone */
+   
   }
   
   @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
     /* iPhone Portrait */
+ 
   }
   
   @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: landscape) {
     /* iPhone Landscape */
-      }
+
+    }
   
   
